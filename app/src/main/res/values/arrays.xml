@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "history" >
+        <item >2017-05-06</item>
+        <item >2017-05-07</item>
+        <item >2017-05-13</item>
+        <item >2017-05-14</item>
+        <item >2017-05-20</item>
+        <item >2017-05-21</item>
+        <item >2017-05-27</item>
+        <item >2017-06-03</item>
+        <item >2017-06-04</item>
+        <item >2017-06-06</item>
+    </string-array>
+</resources>

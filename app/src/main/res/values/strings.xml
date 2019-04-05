@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sleep</string>
+    <string name="action_settings">Settings</string>
+    <string name="idtxthint">用户名</string>
+    <string name="pwdtxthint">密码</string>
+    <string name="loginbtntext">登录</string>
+    <string name="shenshui">深睡占比</string>
+    <string name="qianshui">浅睡占比</string>
+    <string name="qianfu">潜伏期</string>
+    <string name="time">总睡眠</string>
+    <string name="date">日期</string>
+    <string name="SCORE">Score</string>
+    <string name="QUALITY">Quality</string>
+    <string name="SCOREZHI">89.6</string>
+    <string name="REM">REM期占比</string>
+    <string name="text_info1">        	1.固定好电极位置，打开睡眠app。</string>
+    <string name="text_info2">			2.选择设置按钮可设置闹钟时间。</string>
+    <string name="text_info3">			3.点击主观评价按钮，可在线进行PSQI睡眠评分。</string>
+    <string name="text_info4">			4.点击数据分析按钮，可打开蓝牙，就能进行睡眠在线测试了。</string>
+    <string name="text_practise1">      5.睡醒之后，就可以查看睡眠打分和睡眠情况。</string>
+    <string name="text_practise2">      6.点击睡眠记录就可以了解自己以往的睡眠情况。</string>
+    <string name="text_practise3">		1.要养成按时入睡和起床的良好习惯。</string>
+    <string name="text_practise4">		2.营造良好的睡眠环境。</string>
+    <string name="text_practise5">		3.睡前可以锻炼，夜晚的高强度锻炼，不会损害睡眠质量。</string>
+    <string name="text_practise6">		3.洗浴后体温降低，给大脑发送即将入睡的生理信号。</string>
+    <string name="text_practise7">		4.晚上不宜吸烟，不宜饮用浓茶或咖啡等刺激性饮品。</string>
+    <string name="text_attention1">     5.晚上吃点小零食有助于稳定血糖水平，坚持吃含一点蛋白质的零食。</string>
+    <string name="text_attention2">     6.开启白噪声能掩盖影响睡眠的噪音和其他环境变动。</string>
+    <string name="text_attention3">     8.遵守20分钟规则，如果20分钟都无法入睡，那就起床干点什么，直到有睡意再躺床上。</string>
+
+</resources>

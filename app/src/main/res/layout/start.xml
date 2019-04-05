@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+  <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4f696969" >
+        
+        <Button
+            android:id="@+id/talking_read_btn"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:background="@drawable/xinxi" />
+	</RelativeLayout>
+    
+  <TextView
+	        android:id="@+id/xindiantutext"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:background="#6699FF"
+	        android:text="   Original EEG Signal"
+	        android:textColor="#000000" />  
+           
+     <LinearLayout
+            android:id="@+id/chart"
+        	android:layout_width="match_parent"
+        	android:layout_height="180dp"
+        	android:orientation="horizontal"
+        >
+        </LinearLayout>  
+</LinearLayout>
